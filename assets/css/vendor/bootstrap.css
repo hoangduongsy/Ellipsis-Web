@@ -297,15 +297,15 @@ textarea {
   overflow: auto;
   resize: vertical;
 }
-
+/* 
 fieldset {
   min-width: 0;
   padding: 0;
   margin: 0;
   border: 0;
-}
+} */
 
-legend {
+/* legend {
   display: block;
   width: 100%;
   max-width: 100%;
@@ -315,7 +315,7 @@ legend {
   line-height: inherit;
   color: inherit;
   white-space: normal;
-}
+} */
 
 progress {
   vertical-align: baseline;
@@ -367,7 +367,7 @@ h1, h2, h3, h4, h5, h6,
   color: inherit;
 }
 
-h1, .h1 {
+/* h1, .h1 {
   font-size: 2.5rem;
 }
 
@@ -381,7 +381,7 @@ h3, .h3 {
 
 h4, .h4 {
   font-size: 1.5rem;
-}
+} */
 
 h5, .h5 {
   font-size: 1.25rem;
@@ -2496,10 +2496,10 @@ select.form-control-lg:not([size]):not([multiple]), .input-group-lg > select.for
   background-image: none;
 }
 
-a.btn.disabled,
+/* a.btn.disabled,
 fieldset:disabled a.btn {
   pointer-events: none;
-}
+} */
 
 .btn-primary {
   color: #fff;
